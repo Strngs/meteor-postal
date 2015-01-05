@@ -6,7 +6,7 @@
 Package.describe({
   name: "strngs:postal",
   summary: "Meteor package for the postal event bus",
-  version: "1.0.0",
+  version: "0.12.3",
   git: "https://github.com/Strngs/postal"
 });
 
